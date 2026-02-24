@@ -25,16 +25,14 @@ Beneficiarios directos: plataformas de microscopia, grupos de investigacion en b
 - Se podra enlazar con paginas institucionales o repositorios internos para difusion y documentacion del uso del sistema.
 
 ## 4. Monto total de la ayuda solicitada y uso del dinero
-Monto solicitado (estimado): ARS 28.000.000.
+Monto solicitado: USD 7,500 (limite maximo de FUNDACEN).
 Uso principal:
-- Servidor con CPU multinucleo, RAM alta y almacenamiento inicial redundante.
-- Implementacion de backup (discos externos o storage adicional).
-- Licencias y servicios asociados (si correspondiera a infraestructura local).
-- Instalacion, configuracion inicial y puesta en produccion.
+- Contribucion a la compra del servidor HPC (chasis y motherboard con PSU redundantes, CPU 32 nucleos, RAM 128 GB y almacenamiento base en SSD para sistema operativo).
+- Soporte tecnico del fabricante (3 anos), segun disponibilidad de presupuesto.
 
 ## 5. Monto total de la propuesta y financiamiento adicional
-Monto total del proyecto (estimado): ARS 38.000.000.
-Financiamiento adicional previsto: ARS 10.000.000 con aportes institucionales (facultades, servicios centrales y/o proyectos en curso). Estos montos se destinarian a expansion de almacenamiento y soporte tecnico.
+Monto total del proyecto (estimado): USD 9,000 a 16,000, en linea con el desglose tecnico del servidor y soporte.
+Financiamiento adicional previsto: USD 1,500 a 8,500 con aportes institucionales (facultades, servicios centrales y/o proyectos en curso) para completar el costo total y cubrir mejoras de almacenamiento y soporte.
 
 ## 6. Financiamiento previo
 No se ha buscado financiamiento previo para este proyecto. Se planifica iniciar esta solicitud como primer paso para consolidar el proyecto institucional.
