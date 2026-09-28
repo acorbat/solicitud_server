@@ -17,17 +17,50 @@ La propuesta incluye:
 
 ## 2) Presupuesto aproximado y uso de fondos (USD)
 
-| Rubro | Monto estimado (USD) | En qué se gastaría |
-|---|---:|---|
-| Chasis + motherboard + fuentes redundantes | 2.500 - 4.000 | Plataforma de servidor 2U, expansión y estabilidad eléctrica |
-| CPU (32 núcleos) | 3.500 - 6.000 | Capacidad de procesamiento para gestión y análisis de imagen |
-| RAM 128 GB DDR5 | 1.200 - 2.000 | Manejo fluido de datasets de gran tamaño |
-| Almacenamiento base SSD/NVMe | 800 - 1.500 | Sistema operativo y datos activos de trabajo |
-| **Total estimado del proyecto** | **8.000 - 13.500** | **Infraestructura inicial completa** |
+Opcion de almacenamiento:
 
-**Referencia comercial (Argentina):**
-- Datahaus Argentina (ejemplo de servidor de clase equivalente, 2U y escalable):
-  https://tienda.datahaus.com.ar/products/servidor-dell-poweredge-r570-xeon-6-performance-6730p-32c-64t-288mb-256gb-4x-1-92tb-ssd-sata-4x10-25-sfp-2x-10gb-rj45
+Dell PowerEdge T160
+Servidor Dell PowerEdge T160 Intel Xeon Performance 6333P 48GB DDR5 2x4TB HDD+2x960GB SSD PERC H355
+
+Opcionales:
+
+AC049355 16GB UDIMM ECC 5600
+2TB 7.2K RPM SATA 6Gbps 512n 3.5in Hot-plug Hard Drive, CK
+4TB 7.2K RPM SATA 6Gbps 512n 3.5in Hot-plug Hard Drive, CK
+8TB 7.2K RPM SAS 12Gbps 512n 3.5in Hot-plug Hard Drive, CK
+16TB 7.2K RPM SATA 6Gbps 512n 3.5in Hot-plug Hard Drive, CK
+Windows Server 2022 / 2025 STD 16 Core
+Dell Broadcom 57416 SFP y 57414 RJ45
+
+Costo: $9.231.849,45
+
+Link: https://tienda.datahaus.com.ar/products/servidor-dell-poweredge-t160-intel-xeon-e-2436-16gb-ddr5-2x2tb-hdd-2x240gb-ssd-perc-h355?_pos=13&_fid=4005e6916&_ss=c
+
+Opcion procesamiento:
+
+WORKSTATION - SERVIDOR - GAMER - IA
+Intel Core Ultra 7 265K - Z890 - 128GB DDR5 ampliable a 192GB - SSD 1TB NVMe - RTX 5070Ti 16GB - Fuente 1000W - Rack 4U
+
+Equipo de altisimo rendimiento, armado y testeado para inteligencia artificial, workstation profesional, servidor y gaming de alta gama. La placa RTX 5070Ti 16GB junto al Intel Core Ultra 7 265K (reemplaza al Core i7), 192GB de RAM maxima y fuente certificada de 1000W lo hacen ideal para IA / machine learning, renderizado 3D, edicion 4K, virtualizacion y juegos exigentes, en formato rackeable 4U.
+
+Consultanos para sumar Windows, mas memoria, mas discos o una configuracion a medida. Emitimos Factura A.
+
+****************************************
+
+El equipo incluye los siguientes componentes:
+
+* Procesador Intel Core Ultra 7 265K
+* Cooler OC para el procesador
+* Mother Z890 ( Consultar modelo disponible )
+* Memoria RAM 128gb DDR5 expandible a 192gb ( Consultar modelo disponible )
+* Disco Solido SSD 1Tb M.2 NVME ( Consultar modelo disponible )
+* Gabinete Rackeable 4U ( Consultar modelo disponible )
+* Fuente Certificada 1000w ( Consultar modelo disponible )
+* Placa de video Gamer y para IA RTX 5070TI 16gb
+
+Costo: $ 13.574.615
+
+Link: https://www.mercadolibre.com.ar/servidor-ia-core-ultra-7-265k-rack/up/MLAU4165740883#polycard_client=search-desktop&be_origin=mixed&overlay_label=not_apply&search_layout=grid&position=12&type=product&tracking_id=c7ebe4fc-5ba1-43e7-95ef-dbfd9c8f66f0&wid=MLA1861586643&sid=search
 
 ## 3) Impacto esperado
 
