@@ -1,4 +1,4 @@
-# Hoja única de propuesta: Servidor OMERO para la UBA
+# Análisis de imágenes asistido por inteligencia artificial para la extracción de información cuantitativa
 
 ## 1) Propuesta
 Las tecnologías de adquisición de imágenes científicas han avanzado considerablemente en los últimos años. Como resultado, **algunos experimentos generan imágenes multidimensionales con volúmenes de datos de cientos de GB e incluso de varios TB por experimento**. Esta situación limita las posibilidades de trabajo de algunos grupos de investigación, tanto por capacidad de almacenamiento como por dificultades para compartir y procesar los datos.
